@@ -1,0 +1,6 @@
+discord
+pillow
+requests
+transformers
+torch
+logger
